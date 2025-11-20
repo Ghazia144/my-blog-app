@@ -7,7 +7,7 @@ A full-stack blog application where users can create, read, update, and delete p
 - Create, Read, Update, Delete (CRUD) functionality
 - Responsive UI
 - Backend with Node.js and MongoDB
-- Optionally, authentication 
+- Optionally, authentication (if implemented)
 
 ## Tech Stack
 - Frontend: HTML, CSS, JavaScript
@@ -15,9 +15,8 @@ A full-stack blog application where users can create, read, update, and delete p
 - Database: MongoDB
 
 ## Screenshots
-![HomePage](screenshots/Home.png)
-![BlogPage](screenshots/Blog.png)
-![SignupPage](screenshots/Signup.png)
+![Screenshot1](link-to-image)
+![Screenshot2](link-to-image)
 
 ## How to Run Locally
 1. Clone the repository: `git clone https://github.com/Ghazia144/my-blog-app.git`
